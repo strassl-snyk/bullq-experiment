@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^17.0.35",
-    "bull": "^4.8.5",
-    "bullmq": "^1.83.0",
+    "bull": "^4.12.2",
+    "bullmq": "^5.1.2",
     "ts-node": "^10.8.0",
     "typescript": "^4.6.4"
   },
